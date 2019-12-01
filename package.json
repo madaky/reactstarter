@@ -2,14 +2,47 @@
   "name": "reactstarter",
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "React",
+    "React-TypeScript",
+    "ReactStarter",
+    "React Login with api",
+    "Redux",
+    "Redux-Form",
+    "Redux-Saga",
+    "Connected-React-Router",
+    "React-Bootstrap4"
+  ],
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-brands-svg-icons": "^5.11.2",
+    "@fortawesome/free-regular-svg-icons": "^5.11.2",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.7",
     "@types/jest": "24.0.22",
     "@types/node": "12.12.7",
-    "@types/react": "16.9.11",
+    "@types/react": "^16.9.11",
     "@types/react-dom": "16.9.4",
+    "@types/react-redux": "^7.1.5",
+    "@types/react-router": "^5.1.2",
+    "@types/react-router-dom": "^5.1.2",
+    "@types/redux-form": "^8.2.0",
+    "axios": "^0.19.0",
+    "babel-loader": "^8.0.6",
+    "bootstrap": "^4.3.1",
+    "connected-react-router": "^6.6.0",
+    "node-sass": "^4.13.0",
     "react": "^16.11.0",
+    "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.11.0",
+    "react-redux": "^7.1.3",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-form": "^8.2.6",
+    "redux-saga": "^1.1.3",
     "typescript": "3.7.2"
   },
   "scripts": {
@@ -32,5 +65,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
 }

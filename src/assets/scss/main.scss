@@ -1,0 +1,25 @@
+$main-margin: 60px;
+$main-menu-width: 120px;
+$sub-menu-width: 230px;
+$navbar-height: 120px;
+$menu-collapse-time: 300ms;
+main {
+    margin-left: $main-menu-width + $main-margin;
+    margin-top: 20px;
+    margin-right: $main-margin;
+    margin-bottom: $main-margin - 20;
+    transition: margin-left $menu-collapse-time;
+  
+    &.sub-hidden {
+      margin-left: $main-menu-width + $main-margin;
+    }
+  
+    &.main-hidden {
+      margin-left: $main-margin;
+    }
+  
+    .container-fluid {
+      padding-left: 0;
+      padding-right: 0;
+    }
+}

@@ -1,0 +1,5 @@
+export enum AuthenticationConstant{
+    AUTHENTICATED   = 'AUTHENTICATED',
+    UNVERIFIED      = 'UNVERIFIED',
+    UNAUTHENTICATED = 'UNAUTHENTICATED'
+}

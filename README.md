@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Reactstrater scaffold with REDUX, Redux-FORM, REDUX-SAGA and Authentication
+-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+- This project contains the react basic starter setup with redux, redux-form & redux-saga with authentication basic setup.
 
 ## Available Scripts
 
