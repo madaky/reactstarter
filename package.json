@@ -27,7 +27,7 @@
     "@types/react-router": "^5.1.2",
     "@types/react-router-dom": "^5.1.2",
     "@types/redux-form": "^8.2.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "bootstrap": "^4.3.1",
     "connected-react-router": "^6.6.0",
